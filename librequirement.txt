@@ -1,0 +1,6 @@
+requests==2.24.0
+Flask==latest
+gunicorn==20.0.4
+selenium==3.141.0
+pandas==latest
+I have used the latest version for all it worked.
