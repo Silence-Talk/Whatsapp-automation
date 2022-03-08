@@ -2,7 +2,7 @@
 whatsapp automation using selenium and chrome webdriver
 # this whatsapp bot has not been updated for a while.
 1.	syntax: main(message, file, delay, number, session)
-2.	Chromedriver is required. Check your chrome version before installing chromedriver. Dowload chrome driver according to your version an OS from https://chromedriver.chromium.org/ 
+2.	Chromedriver is required. Check your chrome version before installing chromedriver. Dowload chrome driver according to your version in your system from https://chromedriver.chromium.org/ 
 3.	Put chrome driver in same place as the python file.
 4.	The function takes a total of 8 arguments.
 5.	All arguments have default value and in below given order, so passing all is not important.
